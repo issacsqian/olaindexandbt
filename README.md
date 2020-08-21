@@ -94,7 +94,7 @@ wget -O install.sh http://download.bt.cn/install/install_6.0.sh && bash install.
    composer config -g repo.packagist composer https://packagist.laravel-china.org # 更换源为国内源，国外服务器可忽略此步骤
    ```
 
-   如果最后一步出错可以尝试
+  
    
 
 > ## 第三步，网页配置
@@ -107,8 +107,7 @@ wget -O install.sh http://download.bt.cn/install/install_6.0.sh && bash install.
 
 
 
-3. 配置ssl 使用Let's Encrypt即可 ![ssl](https://s1.ax1x.com/2020/07/18/U2lalR.png)
-
+3. 配置ssl 使用Let's Encrypt即可
 
 
 4. 随后需要用到终端。命令来自于官方文档。
